@@ -1,0 +1,6 @@
+# configuration file for eagle eye
+
+database:
+    # supported to api server
+    apple:
+        connection: "mysql://eagleeye:EYeapp$ea@2@121.201.10.15:30013/db_rankapp"

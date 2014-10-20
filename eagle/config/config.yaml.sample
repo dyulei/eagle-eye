@@ -1,0 +1,6 @@
+# configuration file for eagle eye
+
+database:
+    # supported to api server
+    cmdb:
+        connection: 'mysql://user:password@172.16.136.115:3306/databasename'
